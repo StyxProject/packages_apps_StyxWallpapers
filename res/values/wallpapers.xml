@@ -16,6 +16,10 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="partner_wallpapers" translatable="false">
+        <item>getresurrected0</item>
+        <item>getresurrected1</item>
+        <item>getresurrected3</item>
+        <item>getresurrected2</item>
         <item>getresurrected</item>
     	<item>earth_0</item>
         <item>earth_1</item>
@@ -41,11 +45,6 @@
         <item>earth_21</item>
         <item>earth_22</item>
 		<item>earth_red</item>
-        <item>earth</item>
-        <item>mars</item>
-        <item>satun</item>
-        <item>sun</item>
-        <item>pluto</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -73,12 +72,11 @@
         <item>Earth-21 - Google</item>
         <item>Earth-22 - Google</item>
         <item>Earth-23 - Google</item>
-        <item>Earth - Vinoth Ragunathan</item>
-        <item>Mars - Vinoth Ragunathan</item>
-        <item>Satun - Vinoth Ragunathan</item>
-        <item>Sun - Vinoth Ragunathan</item>
-        <item>Pluto - Vinoth Ragunathan</item>
         <item>Get Resurrected - Westcrip</item>
+        <item>Get Resurrected1 - Westcrip</item>
+        <item>Get Resurrected2 - Westcrip</item>
+        <item>Get Resurrected3 - Westcrip</item>
+        <item>Get Resurrected4 - Westcrip</item>
 
     </string-array>
 </resources>
