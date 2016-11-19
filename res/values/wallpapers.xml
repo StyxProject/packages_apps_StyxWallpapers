@@ -17,29 +17,29 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="partner_wallpapers" translatable="false">
         <item>getresurrected</item>
-    	<item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>13</item>
-        <item>14</item>
-        <item>15</item>
-        <item>16</item>
-        <item>17</item>
-        <item>18</item>
-        <item>19</item>
-        <item>20</item>
-        <item>21</item>
-        <item>22</item>
+    	<item>earth_0</item>
+        <item>earth_1</item>
+        <item>earth_2</item>
+        <item>earth_3</item>
+        <item>earth_4</item>
+        <item>earth_5</item>
+        <item>earth_6</item>
+        <item>earth_7</item>
+        <item>earth_8</item>
+        <item>earth_9</item>
+        <item>earth_10</item>
+        <item>earth_11</item>
+        <item>earth_12</item>
+        <item>earth_13</item>
+        <item>earth_14</item>
+        <item>earth_15</item>
+        <item>earth_16</item>
+        <item>earth_17</item>
+        <item>earth_18</item>
+        <item>earth_19</item>
+        <item>earth_20</item>
+        <item>earth_21</item>
+        <item>earth_22</item>
 		<item>earth_red</item>
         <item>earth</item>
         <item>mars</item>
