@@ -16,11 +16,28 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="partner_wallpapers" translatable="false">
+    	<item>rr</item>
+        <item>rr1</item>
+        <item>rr2</item>
+        <item>rr9</item>
+        <item>rr3</item>
+        <item>rr31</item>
+        <item>rr9</item>
+        <item>rr224</item>
+        <item>rr16</item>
+        <item>rr4</item>
+        <item>rr5</item>
+        <item>rr6</item>
+        <item>rr222</item>
+        <item>rr14</item>
+        <item>rr10</item>
+        <item>rr8</item>
+        <item>rr223</item>
+        <item>rr225</item>
         <item>getresurrected0</item>
         <item>getresurrected1</item>
         <item>getresurrected3</item>
         <item>getresurrected2</item>
-        <item>getresurrected</item>
     	<item>earth_0</item>
         <item>earth_1</item>
         <item>earth_2</item>
@@ -44,10 +61,32 @@
         <item>earth_20</item>
         <item>earth_21</item>
         <item>earth_22</item>
-		<item>earth_red</item>
+		<item>red_earth</item>
     </string-array>
 
     <string-array name="info" translatable="false">
+    	<item>rr</item>
+        <item>rr_1</item>
+        <item>rr_2</item>
+        <item>rr_9</item>
+        <item>rr_3</item>
+        <item>rr_31</item>
+        <item>rr_9</item>
+        <item>rr_224</item>
+        <item>rr_16</item>
+        <item>rr_4</item>
+        <item>rr_5</item>
+        <item>rr_6</item>
+        <item>rr_222</item>
+        <item>rr_14</item>
+        <item>rr_10</item>
+        <item>rr_8</item>
+        <item>rr_223</item>
+        <item>rr_225</item>
+        <item>Get Resurrected1 - Westcrip</item>
+        <item>Get Resurrected2 - Westcrip</item>
+        <item>Get Resurrected3 - Westcrip</item>
+        <item>Get Resurrected4 - Westcrip</item>
         <item>Earth - Google</item>
         <item>Earth-1 - Google</item>
         <item>Earth-2 - Google</item>
@@ -72,11 +111,5 @@
         <item>Earth-21 - Google</item>
         <item>Earth-22 - Google</item>
         <item>Earth-23 - Google</item>
-        <item>Get Resurrected - Westcrip</item>
-        <item>Get Resurrected1 - Westcrip</item>
-        <item>Get Resurrected2 - Westcrip</item>
-        <item>Get Resurrected3 - Westcrip</item>
-        <item>Get Resurrected4 - Westcrip</item>
-
     </string-array>
 </resources>
