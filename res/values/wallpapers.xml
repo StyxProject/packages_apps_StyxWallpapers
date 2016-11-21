@@ -22,7 +22,7 @@
         <item>rr9</item>
         <item>rr3</item>
         <item>rr31</item>
-        <item>rr9</item>
+        <item>rr32</item>
         <item>rr224</item>
         <item>rr16</item>
         <item>rr4</item>
@@ -31,6 +31,7 @@
         <item>rr222</item>
         <item>rr14</item>
         <item>rr10</item>
+        <item>rr15</item>
         <item>rr8</item>
         <item>rr223</item>
         <item>rr225</item>
@@ -43,7 +44,6 @@
         <item>earth_2</item>
         <item>earth_3</item>
         <item>earth_4</item>
-        <item>earth_5</item>
         <item>earth_6</item>
         <item>earth_7</item>
         <item>earth_8</item>
@@ -71,7 +71,7 @@
         <item>rr_9</item>
         <item>rr_3</item>
         <item>rr_31</item>
-        <item>rr_9</item>
+        <item>rr_32</item>
         <item>rr_224</item>
         <item>rr_16</item>
         <item>rr_4</item>
@@ -80,6 +80,7 @@
         <item>rr_222</item>
         <item>rr_14</item>
         <item>rr_10</item>
+        <item>rr_15</item>
         <item>rr_8</item>
         <item>rr_223</item>
         <item>rr_225</item>
@@ -92,7 +93,6 @@
         <item>Earth-2 - Google</item>
         <item>Earth-3 - Google</item>
         <item>Earth-4 - Google</item>
-        <item>Earth-5 - Google</item>
         <item>Earth-6 - Google</item>
         <item>Earth-7 - Google</item>
         <item>Earth-8 - Google</item>
