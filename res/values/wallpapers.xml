@@ -21,45 +21,20 @@
         <item>rr2</item>
         <item>rr9</item>
         <item>rr3</item>
-        <item>rr31</item>
         <item>rr32</item>
         <item>rr224</item>
-        <item>rr16</item>
         <item>rr4</item>
         <item>rr5</item>
         <item>rr6</item>
         <item>rr222</item>
-        <item>rr14</item>
         <item>rr10</item>
-        <item>rr15</item>
         <item>rr8</item>
         <item>rr223</item>
-        <item>rr225</item>
-        <item>getresurrected0</item>
-        <item>getresurrected1</item>
-        <item>getresurrected3</item>
-        <item>getresurrected2</item>
     	<item>earth_0</item>
-        <item>earth_1</item>
         <item>earth_2</item>
-        <item>earth_3</item>
-        <item>earth_4</item>
-        <item>earth_6</item>
         <item>earth_7</item>
-        <item>earth_8</item>
-        <item>earth_9</item>
-        <item>earth_10</item>
-        <item>earth_11</item>
-        <item>earth_12</item>
-        <item>earth_13</item>
-        <item>earth_14</item>
-        <item>earth_15</item>
-        <item>earth_16</item>
-        <item>earth_17</item>
-        <item>earth_18</item>
         <item>earth_19</item>
         <item>earth_20</item>
-        <item>earth_21</item>
         <item>earth_22</item>
 		<item>red_earth</item>
     </string-array>
@@ -70,45 +45,20 @@
         <item>rr_2</item>
         <item>rr_9</item>
         <item>rr_3</item>
-        <item>rr_31</item>
         <item>rr_32</item>
         <item>rr_224</item>
-        <item>rr_16</item>
         <item>rr_4</item>
         <item>rr_5</item>
         <item>rr_6</item>
         <item>rr_222</item>
-        <item>rr_14</item>
         <item>rr_10</item>
-        <item>rr_15</item>
         <item>rr_8</item>
         <item>rr_223</item>
-        <item>rr_225</item>
-        <item>Get Resurrected1 - Westcrip</item>
-        <item>Get Resurrected2 - Westcrip</item>
-        <item>Get Resurrected3 - Westcrip</item>
-        <item>Get Resurrected4 - Westcrip</item>
         <item>Earth - Google</item>
-        <item>Earth-1 - Google</item>
         <item>Earth-2 - Google</item>
-        <item>Earth-3 - Google</item>
-        <item>Earth-4 - Google</item>
-        <item>Earth-6 - Google</item>
         <item>Earth-7 - Google</item>
-        <item>Earth-8 - Google</item>
-        <item>Earth-9 - Google</item>
-        <item>Earth-10 - Google</item>
-        <item>Earth-11 - Google</item>
-        <item>Earth-12 - Google</item>
-        <item>Earth-13 - Google</item>
-        <item>Earth-14 - Google</item>
-        <item>Earth-15 - Google</item>
-        <item>Earth-16 - Google</item>
-        <item>Earth-17 - Google</item>
-        <item>Earth-18 - Google</item>
         <item>Earth-19 - Google</item>
         <item>Earth-20 - Google</item>
-        <item>Earth-21 - Google</item>
         <item>Earth-22 - Google</item>
         <item>Earth-23 - Google</item>
     </string-array>
