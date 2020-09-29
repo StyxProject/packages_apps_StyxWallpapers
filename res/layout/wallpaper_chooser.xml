@@ -46,12 +46,27 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content" />
 
+        <Space
+            android:id="@+id/spacer"
+            android:layout_width="0dp"
+            android:layout_height="20dp"
+            android:layout_weight="1"
+            android:visibility="invisible"/>
+
+
         <Button android:id="@+id/set"
-            android:layout_width="match_parent"
+            style="@style/ButtonStyle"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/set_wallpaper"
-            android:background="@*android:drawable/list_selector_holo_dark"
             android:layout_gravity="center_horizontal" />
+
+        <Space
+            android:id="@+id/spacer"
+            android:layout_width="0dp"
+            android:layout_height="10dp"
+            android:layout_weight="1"
+            android:visibility="invisible"/>
 
     </LinearLayout>
 

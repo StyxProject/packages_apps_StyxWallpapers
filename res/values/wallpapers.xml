@@ -37,9 +37,6 @@
         <item>earth_20</item>
         <item>earth_22</item>
 		<item>red_earth</item>
-    </string-array>
-
-    <string-array name="info" translatable="false">
         <item>RR3_EZIO</item>
         <item>RR2_EZIO</item>
         <item>RR_EZIO</item>

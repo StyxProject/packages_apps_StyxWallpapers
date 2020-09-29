@@ -24,6 +24,9 @@ LOCAL_PRIVILEGED_MODULE := false
 LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res
 LOCAL_SRC_FILES := $(call all-subdir-java-files)
 
+LOCAL_STATIC_ANDROID_LIBRARIES := \
+    androidx.cardview_cardview 
+
 LOCAL_PACKAGE_NAME := RRWallpapers
 
 include $(BUILD_PACKAGE)
