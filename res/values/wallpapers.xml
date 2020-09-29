@@ -119,5 +119,10 @@
         <item>RR5_EZIO</item>
         <item>RR6_EZIO</item>
         <item>RR7_EZIO</item>
+        <item>RRWallpaperBetterRed</item>
+        <item>RRWallpaperBlue</item>
+        <item>RRWallpaperGlitch</item>
+        <item>RRWallpaperOT</item>
+        <item>RRWallpaperRed</item>
     </string-array>
 </resources>
