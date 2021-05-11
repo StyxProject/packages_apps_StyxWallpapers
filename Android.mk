@@ -27,6 +27,6 @@ LOCAL_SRC_FILES := $(call all-subdir-java-files)
 LOCAL_STATIC_ANDROID_LIBRARIES := \
     androidx.cardview_cardview 
 
-LOCAL_PACKAGE_NAME := RRWallpapers
+LOCAL_PACKAGE_NAME := StyxWallpapers
 
 include $(BUILD_PACKAGE)

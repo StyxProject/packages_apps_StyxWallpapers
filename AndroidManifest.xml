@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           xmlns:tools="http://schemas.android.com/tools"
-          package="com.rr.wallpapers">
-    <uses-sdk android:targetSdkVersion="29" android:minSdkVersion="28"/>
+          package="com.styx.wallpapers">
+    <uses-sdk android:targetSdkVersion="30" android:minSdkVersion="28"/>
     <uses-permission android:name="android.permission.SET_WALLPAPER"/>
 
     <application 
-         android:label="@string/rr_app_name"
+         android:label="@string/styx_app_name"
          android:hardwareAccelerated="true"
-         android:icon="@drawable/ic_launcher"
          android:theme="@style/Preview"
          android:supportsRtl="true" >
         <activity
             android:name="Wallpaper"
-            android:label="@string/rr_app_name"
-            android:theme="@style/Preview"
-            android:icon="@drawable/ic_launcher" >
+            android:label="@string/styx_app_name"
+            android:theme="@style/Preview" >
             <intent-filter>
                 <action android:name="android.intent.action.SET_WALLPAPER" />
                 <category android:name="android.intent.category.DEFAULT" />
