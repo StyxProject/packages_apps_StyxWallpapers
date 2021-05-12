@@ -26,7 +26,6 @@ import com.styx.wallpapers.R;
 import com.styx.wallpapers.bundle.WallpaperBundle;
 import com.styx.wallpapers.factory.BuiltInWallpaperFactory;
 import com.styx.wallpapers.factory.GradientWallpaperFactory;
-import com.styx.wallpapers.factory.MonoWallpaperFactory;
 import com.styx.wallpapers.factory.UserWallpaperFactory;
 
 import java.util.ArrayList;
@@ -44,7 +43,6 @@ final class FetchDataImpl {
     List<WallpaperBundle> fetchData() {
         addUser();
         addBuiltIn();
-        addColors();
         addGradients();
 
         return mData;
@@ -68,18 +66,6 @@ final class FetchDataImpl {
         }
 
         drawables.recycle();
-    }
-
-    private void addColors() {
-        Resources res = mCallbacks.getResources();
-        String[] names = res.getStringArray(R.array.wallpaper_mono_names);
-        TypedArray colors = res.obtainTypedArray(R.array.wallpaper_mono_colors);
-        for (int i = 0; i < colors.length(); i++) {
-            final int color = colors.getColor(i, Color.BLACK);
-            mData.add(MonoWallpaperFactory.build(names[i], color));
-        }
-
-        colors.recycle();
     }
 
     private void addGradients() {
