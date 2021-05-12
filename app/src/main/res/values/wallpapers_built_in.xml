@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <!--
   Copyright (C) 2019 The LineageOS Project
 
@@ -16,8 +15,15 @@
   -->
 <resources>
 
-    <color name="colorPrimary">#fefefe</color>
-    <color name="colorPrimaryDark">#e0e0e0</color>
-    <color name="colorAccent">#167c80</color>
-    <color name="apply_closeBg">#4f000000</color>
+    <array name="wallpaper_built_in_drawables">
+        <item>@drawable/styx_1</item>
+        <item>@drawable/styx_2</item>
+        <item>@drawable/styx_3</item>
+    </array>
+
+    <string-array name="wallpaper_built_in_names">
+        <item>@string/wallpaper_built_in_1</item>
+        <item>@string/wallpaper_built_in_2</item>
+        <item>@string/wallpaper_built_in_3</item>
+    </string-array>
 </resources>

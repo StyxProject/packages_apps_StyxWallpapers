@@ -17,12 +17,12 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 28
+    compileSdkVersion 30
 
     defaultConfig {
-        applicationId "org.lineageos.backgrounds"
-        minSdkVersion 27
-        targetSdkVersion 28
+        applicationId "com.styx.wallpapers"
+        minSdkVersion 29
+        targetSdkVersion 30
         versionCode 1
         versionName "1.0"
     }
@@ -41,7 +41,7 @@ android {
 
     sourceSets {
         main {
-            res.srcDirs = ['src/main/res', 'src/main/res_1080p/full', 'src/main/res_1080p/common']
+            res.srcDirs = ['src/main/res']
         }
     }
 }

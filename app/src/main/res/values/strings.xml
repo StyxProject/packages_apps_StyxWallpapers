@@ -14,7 +14,7 @@
   limitations under the License.
   -->
 <resources>
-    <string name="app_name">Wallpapers</string>
+    <string name="app_name">Styx Wallpapers</string>
 
     <string name="main_loading">Loading\u2026</string>
     <string name="main_wallpaper_pick">Your images</string>
@@ -46,16 +46,9 @@
     <!-- Built-in wallpaper names -->
     <eat-comment />
 
-    <string translatable="false" name="wallpaper_built_in_ink">Ink</string>
-    <string translatable="false" name="wallpaper_built_in_orderofchaos">Order of chaos</string>
-    <string translatable="false" name="wallpaper_built_in_spacestory">Space story</string>
-    <string translatable="false" name="wallpaper_built_in_ice">Ice</string>
-    <string translatable="false" name="wallpaper_built_in_nebula">Nebula</string>
-    <string translatable="false" name="wallpaper_built_in_night">Still night</string>
-    <string translatable="false" name="wallpaper_built_in_sea">Sea</string>
-    <string translatable="false" name="wallpaper_built_in_riseup">Rise up</string>
-    <string translatable="false" name="wallpaper_built_in_dayroad">Day road</string>
-    <string translatable="false" name="wallpaper_built_in_nightroad">Night road</string>
+    <string translatable="false" name="wallpaper_built_in_1">Styx 1</string>
+    <string translatable="false" name="wallpaper_built_in_2">Styx 2</string>
+    <string translatable="false" name="wallpaper_built_in_3">Styx 3</string>
     <string translatable="false" name="wallpaper_built_in_system">Default</string>
 
     <!-- Gradient wallpaper names -->
