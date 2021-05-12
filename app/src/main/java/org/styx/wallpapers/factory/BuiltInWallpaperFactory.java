@@ -37,13 +37,4 @@ public final class BuiltInWallpaperFactory {
         Drawable drawable = res.getDrawable(drawableRes, res.newTheme());
         return new WallpaperBundle(name, drawable, drawableRes, WallpaperType.BUILT_IN);
     }
-
-    public static WallpaperBundle buildDefault(@NonNull Resources res,
-                                               @NonNull WallpaperManager manager) {
-        final String name = res.getString(R.string.wallpaper_built_in_system);
-        final Drawable drawable = manager.getBuiltInDrawable();
-
-        return new WallpaperBundle(name, drawable,
-                WallpaperBundle.DESCRIPTOR_EMPTY, WallpaperType.DEFAULT);
-    }
 }

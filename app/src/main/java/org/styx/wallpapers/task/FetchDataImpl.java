@@ -57,10 +57,6 @@ final class FetchDataImpl {
     private void addBuiltIn() {
         Resources res = mCallbacks.getResources();
 
-        // System wallpaper first
-        WallpaperManager manager = mCallbacks.getWallpaperManager();
-        mData.add(BuiltInWallpaperFactory.buildDefault(res, manager));
-
         // Other built-in
         String[] names = res.getStringArray(R.array.wallpaper_built_in_names);
         TypedArray drawables = res.obtainTypedArray(R.array.wallpaper_built_in_drawables);
