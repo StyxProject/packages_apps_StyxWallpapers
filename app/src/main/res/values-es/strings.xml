@@ -1,0 +1,39 @@
+<!--
+  Copyright (C) 2019 The LineageOS Project
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+       http://www.apache.org/licenses/LICENSE-2.0
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Styx Wallpapers</string>
+
+    <string name="main_loading">Cargando\u2026</string>
+    <string name="main_wallpaper_pick">Tus imágenes</string>
+    <string name="apply_both_action">Inicio &amp; Bloqueo</string>
+    <string name="apply_home_action">Pantalla de inicio</string>
+    <string name="apply_lock_action">Pantalla de bloqueo</string>
+
+    <string name="apply_success">Fondo de pantalla aplicado</string>
+    <string name="apply_failure">No se puede aplicar este fondo de pantalla</string>
+
+    <string name="apply_close">Cerrar</string>
+
+    <!-- Gradient wallpaper names -->
+    <eat-comment />
+
+    <string name="wallpaper_gradient_iron">Hierro</string>
+    <string name="wallpaper_gradient_leaf">Hoja</string>
+    <string name="wallpaper_gradient_lemon">Limón</string>
+    <string name="wallpaper_gradient_neon">Neón</string>
+    <string name="wallpaper_gradient_ocean">Océano</string>
+    <string name="wallpaper_gradient_orange">Naranja</string>
+    <string name="wallpaper_gradient_peach">Durazno</string>
+    <string name="wallpaper_gradient_plum">Ciruela</string>
+    <string name="wallpaper_gradient_shine">Brillo</string>
+</resources>
