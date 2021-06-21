@@ -19,11 +19,29 @@
         <item>@drawable/styx_1</item>
         <item>@drawable/styx_2</item>
         <item>@drawable/styx_3</item>
+        <item>@drawable/mosaic</item>
+        <item>@drawable/mosaic_dark</item>
+        <item>@drawable/red_noisy</item>
+        <item>@drawable/green_noisy</item>
+        <item>@drawable/blue_noisy</item>
+        <item>@drawable/cucumber_supremacy</item>
+        <item>@drawable/oinon_supremacy</item>
+        <item>@drawable/potato_supremacy</item>
+        <item>@drawable/tomato_supremacy</item>
     </array>
 
     <string-array name="wallpaper_built_in_names">
         <item>@string/wallpaper_built_in_1</item>
         <item>@string/wallpaper_built_in_2</item>
         <item>@string/wallpaper_built_in_3</item>
+        <item>@string/wallpaper_built_in_4</item>
+        <item>@string/wallpaper_built_in_5</item>
+        <item>@string/wallpaper_built_in_6</item>
+        <item>@string/wallpaper_built_in_7</item>
+        <item>@string/wallpaper_built_in_8</item>
+        <item>@string/wallpaper_built_in_9</item>
+        <item>@string/wallpaper_built_in_10</item>
+        <item>@string/wallpaper_built_in_11</item>
+        <item>@string/wallpaper_built_in_12</item>
     </string-array>
 </resources>

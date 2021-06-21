@@ -33,6 +33,15 @@
     <string translatable="false" name="wallpaper_built_in_1">Styx 1</string>
     <string translatable="false" name="wallpaper_built_in_2">Styx 2</string>
     <string translatable="false" name="wallpaper_built_in_3">Styx 3</string>
+    <string translatable="false" name="wallpaper_built_in_4">Mosaic</string>
+    <string translatable="false" name="wallpaper_built_in_5">Mosaic Dark</string>
+    <string translatable="false" name="wallpaper_built_in_6">Red Noisy</string>
+    <string translatable="false" name="wallpaper_built_in_7">Green Noisy</string>
+    <string translatable="false" name="wallpaper_built_in_8">Blue Noisy</string>
+    <string translatable="false" name="wallpaper_built_in_9">Cucumber Supremacy</string>
+    <string translatable="false" name="wallpaper_built_in_10">Oinon Supremacy</string>
+    <string translatable="false" name="wallpaper_built_in_11">Potato Supremacy</string>
+    <string translatable="false" name="wallpaper_built_in_12">Tomato Supremacy</string>
 
     <!-- Gradient wallpaper names -->
     <eat-comment />
