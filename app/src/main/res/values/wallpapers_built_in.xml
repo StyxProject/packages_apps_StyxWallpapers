@@ -16,18 +16,18 @@
 <resources>
 
     <array name="wallpaper_built_in_drawables">
-        <item>@drawable/styx_1</item>
-        <item>@drawable/styx_2</item>
-        <item>@drawable/styx_3</item>
-        <item>@drawable/mosaic</item>
-        <item>@drawable/mosaic_dark</item>
-        <item>@drawable/red_noisy</item>
-        <item>@drawable/green_noisy</item>
-        <item>@drawable/blue_noisy</item>
-        <item>@drawable/cucumber_supremacy</item>
-        <item>@drawable/oinon_supremacy</item>
-        <item>@drawable/potato_supremacy</item>
-        <item>@drawable/tomato_supremacy</item>
+        <item>@drawable/styx_1_small</item>
+        <item>@drawable/styx_2_small</item>
+        <item>@drawable/styx_3_small</item>
+        <item>@drawable/mosaic_small</item>
+        <item>@drawable/mosaic_dark_small</item>
+        <item>@drawable/red_noisy_small</item>
+        <item>@drawable/green_noisy_small</item>
+        <item>@drawable/blue_noisy_small</item>
+        <item>@drawable/cucumber_supremacy_small</item>
+        <item>@drawable/oinon_supremacy_small</item>
+        <item>@drawable/potato_supremacy_small</item>
+        <item>@drawable/tomato_supremacy_small</item>
     </array>
 
     <string-array name="wallpaper_built_in_names">
