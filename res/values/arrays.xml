@@ -9,38 +9,30 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-        <item>wallpaper00</item>
-        <item>wallpaper01</item>
-        <item>wallpaper02</item>
-        <item>wallpaper03</item>
-        <item>wallpaper04</item>
-        <item>wallpaper05</item>
-        <item>wallpaper06</item>
-        <item>wallpaper07</item>
-        <item>wallpaper08</item>
-        <item>wallpaper09</item>
-        <item>wallpaper10</item>
-        <item>wallpaper11</item>
-        <item>wallpaper12</item>
-        <item>wallpaper14</item>
-        <item>wallpaper15</item>
-		<item>wallpaper16</item>
-		<item>wallpaper17</item>
-		<item>wallpaper18</item>
-		<item>wallpaper19</item>
-		<item>wallpaper20</item>		
-		<item>wallpaper21</item>
-		<item>wallpaper22</item>
-		<item>wallpaper23</item>
-		<item>wallpaper24</item>
-		<item>wallpaper25</item>
-		<item>wallpaper26</item>
-		<item>wallpaper27</item>
-		<item>wallpaper28</item>
-		<item>wallpaper29</item>
-		<item>wallpaper30</item>
-		<item>wallpaper31</item>
-		<item>wallpaper32</item>
+        <item>blue_noisy</item>
+        <item>bubbles</item>
+        <item>bubbles_dark</item>
+        <item>bublleslight</item>
+        <item>cucumber_supremacy</item>
+        <item>green_noisy</item>
+        <item>linesareneverending</item>
+        <item>linesareneverending2</item>
+        <item>linescontinued1</item>
+        <item>linescontinued2</item>
+        <item>linescontinued3</item>
+        <item>potato_supremacy</item>
+        <item>oinon_supremacy</item>
+        <item>tomato_supremacy</item>
+        <item>red_noisy</item>
+        <item>styx_1</item>
+        <item>styx_2</item>
+        <item>styx_3</item>
+        <item>toyoureternity1</item>
+        <item>toyoureternity2</item>		
+        <item>weridlines</item>
+        <item>weridlines1</item>
+        <item>weridlines2</item>
+        <item>weridlines3</item>
     </string-array>
 
     <string-array name="wallpaper_options">
