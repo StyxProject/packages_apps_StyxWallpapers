@@ -8,7 +8,7 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.cesium.WallBucket"
+    package="org.styxproject.StyxWallpapers"
     android:versionCode="23"
     android:versionName="2.3" >
 

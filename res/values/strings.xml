@@ -8,7 +8,7 @@
 -->
 
 <resources>
-    <string name="app_name">CesiumOS WallBucket</string>
+    <string name="app_name">Styx Wallpapers</string>
     <string name="applying">Applying selected wallpaper</string>
     <string name="longpress_info">Long press to apply wallpaper</string>
     <string name="wallpaper_instructions">Set wallpaper</string>

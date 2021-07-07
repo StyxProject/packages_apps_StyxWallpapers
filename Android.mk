@@ -28,7 +28,7 @@ LOCAL_AAPT_FLAGS := --auto-add-overlay \
     --extra-packages android.support.v7.appcompat \
     --extra-packages android.support.design
 
-LOCAL_PACKAGE_NAME := WallBucket
+LOCAL_PACKAGE_NAME := StyxWallpapers
 
 LOCAL_USE_AAPT2 := true
 
