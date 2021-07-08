@@ -24,10 +24,6 @@
         <item>@drawable/styx_6</item>
         <item>@drawable/styx_7</item>
         <item>@drawable/styx_8</item>
-        <item>@drawable/styx_9</item>
-        <item>@drawable/styx_10</item>
-        <item>@drawable/styx_11</item>
-        <item>@drawable/styx_12</item>
     </array>
 
     <string-array name="wallpaper_built_in_names">
@@ -39,9 +35,5 @@
         <item>@string/wallpaper_built_in_6</item>
         <item>@string/wallpaper_built_in_7</item>
         <item>@string/wallpaper_built_in_8</item>
-        <item>@string/wallpaper_built_in_9</item>
-        <item>@string/wallpaper_built_in_10</item>
-        <item>@string/wallpaper_built_in_11</item>
-        <item>@string/wallpaper_built_in_12</item>
     </string-array>
 </resources>

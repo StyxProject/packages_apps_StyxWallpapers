@@ -38,10 +38,6 @@
     <string translatable="false" name="wallpaper_built_in_6">Red Noisy</string>
     <string translatable="false" name="wallpaper_built_in_7">Green Noisy</string>
     <string translatable="false" name="wallpaper_built_in_8">Blue Noisy</string>
-    <string translatable="false" name="wallpaper_built_in_9">Cucumber Supremacy</string>
-    <string translatable="false" name="wallpaper_built_in_10">Oinon Supremacy</string>
-    <string translatable="false" name="wallpaper_built_in_11">Potato Supremacy</string>
-    <string translatable="false" name="wallpaper_built_in_12">Tomato Supremacy</string>
 
     <!-- Gradient wallpaper names -->
     <eat-comment />
