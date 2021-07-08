@@ -19,15 +19,15 @@
         <item>@drawable/styx_1</item>
         <item>@drawable/styx_2</item>
         <item>@drawable/styx_3</item>
-        <item>@drawable/mosaic</item>
-        <item>@drawable/mosaic_dark</item>
-        <item>@drawable/red_noisy</item>
-        <item>@drawable/green_noisy</item>
-        <item>@drawable/blue_noisy</item>
-        <item>@drawable/cucumber_supremacy</item>
-        <item>@drawable/oinon_supremacy</item>
-        <item>@drawable/potato_supremacy</item>
-        <item>@drawable/tomato_supremacy</item>
+        <item>@drawable/styx_4</item>
+        <item>@drawable/styx_5</item>
+        <item>@drawable/styx_6</item>
+        <item>@drawable/styx_7</item>
+        <item>@drawable/styx_8</item>
+        <item>@drawable/styx_9</item>
+        <item>@drawable/styx_10</item>
+        <item>@drawable/styx_11</item>
+        <item>@drawable/styx_12</item>
     </array>
 
     <string-array name="wallpaper_built_in_names">
